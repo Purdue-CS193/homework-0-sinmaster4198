@@ -25,6 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Sohil's First CS193 Homework
+
+- class is taught by TAs
+- TAs seem pretty nice and have good experience
+- more fun cause it's like being taught by peers instead of some old guy
+- class has AC
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
